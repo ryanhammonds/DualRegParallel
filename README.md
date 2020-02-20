@@ -1,3 +1,5 @@
+Breaks DR steps down and runs them in parallel using GNU parallel. Randomise step may be edited to run on SLURM.
+
 # DualRegParallel
 
 Need to make these variables command line options (ie DualRegParallel --jobs=29 --out= ...)
